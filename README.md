@@ -116,8 +116,8 @@ The webcam will open and start detecting sign language gestures in real time.
 
 ## 👩‍💻 Author
 
-Pragathi Chidambaram
-Jeeva Ragavi
+Pragathi Chidambaram,
+JeevaRagavi
 
 ---
 
