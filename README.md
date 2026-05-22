@@ -1,4 +1,4 @@
-# Sign-langague-detection
+
 # 🤟 Sign Language Detection System
 
 A real-time Sign Language Detection System built using Python, OpenCV, and Machine Learning that recognizes hand gestures through a webcam and converts them into text and/or voice output.
